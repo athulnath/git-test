@@ -1,2 +1,2 @@
 <?php
-echo 'okay';
+echo 'newmessage';
