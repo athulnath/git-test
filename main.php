@@ -1,4 +1,2 @@
 <?php
-use App;
-
-App::run();
+new::run();
