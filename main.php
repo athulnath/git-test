@@ -3,4 +3,4 @@ use App;
 
 App::run();
 
-exit();
+exit(0);
